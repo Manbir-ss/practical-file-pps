@@ -20,6 +20,11 @@
                                                                                           
               
                                                   
-                                            Guru Nanank Dev Engineering College 
-                                        Depatment Of Electronics And Communication    
-                                                  
+                                           Guru Nanank Dev Engineering College 
+                                       Department Of Electronics And Communication  
+___
+   Table Of contents
+|Sr No. | List of Practical |
+ | ---|--|
+|1.| Write a Programme to display a Face by using puts |
+ |2.|Write a programme to display the face 10 times by use for loop|
