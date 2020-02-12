@@ -33,4 +33,4 @@ ___
 |4.|Write a programme to display only numbers between 1 to 100|
 |5.|Write a programme to display sum of even numbers between 1 to 100|
 |6.|Write a programme to create a report of patient user will enter patient name ,age,blood group.gender,disease|
-|7.|Write a programme to create a report of student to pass or fale where a student will enter i.e is department name,marks of chemistry maths, pps, english where the condition is user will not exceed marks number from 244 if exceeds he have to enter the marks and if        user will obtain less than 10 report will generate fail|
+|7.|Write a programme to create a report of student to pass or fale where a student will enter i.e is department name,marks of chemistry maths, pps, english where the condition is user will not exceed marks from 24 if exceeds he have to re-enter the marks and if user will obtained less than 10 marks report will generate fail otherwise pass|
